@@ -1,11 +1,11 @@
 ****Product Management System (CRUD Operations)****************************- README
-This is a simple product management system implemented in PHP that allows you to perform CRUD (Create, Read, Update, Delete) operations on products.
+This is a simple product management system implemented in PHP.
 
 Features
-Create new products with details such as name, price, and quantity.
-Read and display a list of all products in the system.
-Update the details of existing products.
-Delete products from the system.
+- Create new products with details such as name, price, and quantity and description.
+- Read and display a list of all products in the system.
+- Update the details of existing products.
+- Delete products from the system.
 Requirements
 PHP version 7.0 or higher.
 MySQL database.
@@ -14,8 +14,8 @@ Clone the repository:
 bash
 Copy
 git clone https://github.com/TeklemariamFekade/product_managment.git
-Import the database
 
+Import the database
 Create a new MySQL database.
 Import the database.sql file located in the repository to set up the required database schema.
 Configure the database connection
