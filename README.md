@@ -35,6 +35,7 @@ Access the application in your browser using the appropriate URL.
 
 The home page displays a list of all products in the system.
 Each product is listed with its name, price, description.
+![image](https://github.com/TeklemariamFekade/product_List/assets/106950388/e33a873e-06fe-454c-9848-7cd387bea47e)
 
 
 Click on the "Add Product" link in the navigation menu to add a new product.
@@ -66,9 +67,11 @@ Contributions to this project are welcome. If you have any suggestions, bug repo
 
 **In stock products**
 click instock button to display products found in the stock
+![image](https://github.com/TeklemariamFekade/product_List/assets/106950388/36bb2a0e-9228-43cf-8187-f1ff2b66bf44)
 
-out of stock products
 
+
+**out of stock products**
 click instock button to display products that are out of the stock
 ![image](https://github.com/TeklemariamFekade/product_List/assets/106950388/2776db1c-1588-43d0-aa53-aa52b1891e81)
 
