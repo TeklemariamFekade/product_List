@@ -26,11 +26,11 @@ Import the database
 
 Create a new MySQL database.
 
-Import the database.sql file located in the repository to set up the required database schema.
+Import the product_managment.sql file located in the repository to set up the required database schema.
 
 Configure the database connection
 
-Open config.php file.
+Open dbcon.php file.
 Update the database connection details such as host, username, password, and database name according to your MySQL configuration.
 Start the application
 
@@ -58,13 +58,19 @@ Click on the View Detail in the home page to view its details.
 The product details page shows the name, price, and quantity, Description of the selected product.
 You can also see an "order" button to order products.
 
-**Edit Product**
+![image](https://github.com/TeklemariamFekade/product_List/assets/106950388/564a7686-4133-4aa2-b638-3f5d1401dfdd)
+
+
+**Update Products Product**
 
  click on the "Edit" button to modify the product details.
 Update the desired fields in the form.
 Click the "update" button to save the changes.
 You will be redirected to the details page with the updated information.
-Delete Product
+
+![image](https://github.com/TeklemariamFekade/product_List/assets/106950388/4e65557f-009a-44f7-92ce-2c8e140de5b7)
+
+
 
 **Delete Products**
 
