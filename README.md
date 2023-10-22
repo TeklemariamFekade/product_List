@@ -1,5 +1,4 @@
-****Product Management System (CRUD Operations)****************************- README
-This is a simple product management system implemented in PHP.
+****Product List System (CRUD Operations)***********************
 
 Features
 - Create new products with details such as name, price, and quantity and description.
@@ -16,7 +15,7 @@ Installation
 Clone the repository:
 bash
 Copy
-git clone https://github.com/TeklemariamFekade/product_managment.git
+git clone (https://github.com/TeklemariamFekade/product_List.git)
 
 Import the database
 Create a new MySQL database.
