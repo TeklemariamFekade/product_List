@@ -6,6 +6,7 @@ Features
 - Read and display a list of all products in the system.
 - Update the details of existing products.
 - Delete products from the system.
+  
 **Requirements**
 
   
@@ -73,7 +74,7 @@ click instock button to display products found in the stock
 
 **out of stock products**
 click instock button to display products that are out of the stock
-![image](https://github.com/TeklemariamFekade/product_List/assets/106950388/2776db1c-1588-43d0-aa53-aa52b1891e81)
+![image](https://github.com/TeklemariamFekade/product_List/assets/106950388/fc62e27b-1d60-42db-b819-548d4ab8a795)
 
 
 License
