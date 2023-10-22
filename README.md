@@ -68,7 +68,8 @@ Update the desired fields in the form.
 Click the "update" button to save the changes.
 You will be redirected to the details page with the updated information.
 
-![image](https://github.com/TeklemariamFekade/product_List/assets/106950388/4e65557f-009a-44f7-92ce-2c8e140de5b7)
+![image](https://github.com/TeklemariamFekade/product_List/assets/106950388/ac9a8cd0-8ab1-4982-9135-0d3c9c827ac2)
+
 
 
 
